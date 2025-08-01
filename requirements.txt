@@ -1,0 +1,57 @@
+# Telegram Bot Framework
+aiogram==3.4.1
+
+# Database
+sqlalchemy==2.0.25
+aiosqlite==0.19.0
+asyncpg==0.29.0
+
+# Encryption and Security
+cryptography>=42.0.0
+
+# HTTP Requests
+aiohttp==3.9.1
+httpx==0.25.2
+
+# File Processing
+PyMuPDF==1.23.10
+pdfplumber==0.10.3
+Pillow==10.1.0
+
+# Google Drive Integration
+google-api-python-client==2.108.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.0
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Logging
+loguru==0.7.2
+
+# Async Tools
+asyncio-throttle==1.0.2
+aiofiles==23.2.0
+
+# AI/ML APIs
+openai==1.7.1
+
+# Data Validation
+pydantic==2.5.2
+
+# Date/Time Processing
+python-dateutil==2.8.2
+
+# Excel/CSV Processing
+openpyxl==3.1.2
+pandas==2.1.4
+
+# Text Processing
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Development Tools (optional)
+pytest==7.4.3
+pytest-asyncio==0.23.2
+black==23.11.0
+flake8==6.1.0 
